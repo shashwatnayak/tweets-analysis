@@ -1,3 +1,5 @@
-# tweets-analysis
-My application for sentiment analysis in Twitter
-Certain topics to be decided.
+# Tweets-analysis
+
+
+My application for sentiment analysis on Twitter
+This is simple application to use sentiment analysis using TextBlob
