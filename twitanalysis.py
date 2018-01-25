@@ -3,7 +3,7 @@ import json
 import pandas as pd
 import matplotlib.pyplot as plt
 
-#We load json data and store all tweets in a list.
+#We load json data store all tweets in a list.
 tweets_data_path = './data/twitter_API_data.txt'
 
 tweets_data = []
